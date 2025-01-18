@@ -175,7 +175,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("https://abdimuharam7.github.io/coffee/herosection.jpg");
+  background-image: url("/abdimuharam7/herosection.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
