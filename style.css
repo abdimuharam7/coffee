@@ -175,7 +175,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../herosection.jpg");
+  background-image: url("herosection.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
